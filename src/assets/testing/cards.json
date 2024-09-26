@@ -1,0 +1,12 @@
+[
+    {
+        "icon": "qr-code-outline",
+        "title": "Generar QR",
+        "description": "Generar QR para la asistencia"
+    },
+    {
+        "icon": "list-outline",
+        "title": "Lista de alumnos",
+        "description": "Ver listado de alumnos"
+    }
+]
